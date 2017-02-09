@@ -1,2 +1,5 @@
 # Hi-Git-community
-first repository
+
+Hello!
+
+I am started new stage in my life - studying Java.
